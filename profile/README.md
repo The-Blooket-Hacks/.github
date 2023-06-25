@@ -12,9 +12,9 @@
 
   <p align="center">
    Welcome to the first blooket cheats organisation with fully unobfuscated, working scripts.
-   We will strive to only provide unobfuscated versions, so that people know what is in it.
+   I will strive to only provide unobfuscated versions, so that people know what is in it.
    <i>Please do not market it as your own, and make copies private please.</i>
-   We have based some of these off other peoples', with some edits to improve it.
+   I have based some of these off other peoples', with some edits to improve it.
     <br />
 	  <br>
 	  <div align="center">
