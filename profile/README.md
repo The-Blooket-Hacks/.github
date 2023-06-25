@@ -1,12 +1,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Blooket-Cheats">
+  <a href="https://github.com/The-Blooket-Hacks">
 	 <img src="https://github.com/Blooket-Cheats/Blooket-Hacks/blob/main/images/animated_icon.gif?raw=true" alt="Logo" width="200" height="200" />
   </a>
 
-<h3 align="center">Blooket Cheats</h3>
-<h4 align="center">Made By <a href="https://github.com/cph101/">cph101</a> & <a href="https://github.com/crazyh2/">CrazyH</a></h4>
+<h3 align="center">Blooket Hacks</h3>
+<h4 align="center">Made By <a href="https://github.com/crazyh2/">CrazyH</a> & <a href="https://github.com/cph101/">cph101</a></h4>
 
 ![](https://komarev.com/ghpvc/?username=Blooket-Cheats&color=red)
 
@@ -19,8 +19,8 @@
 	  <br>
 	  <div align="center">
 		  <p>
-		      <a href="https://github.com/Blooket-Cheats/Blooket-Hacks/"><img height="35px" src="https://raw.githubusercontent.com/Blooket-Cheats/.github/main/profile/viewCheats.svg"></a>
-    <a href="https://github.com/Blooket-Cheats/Extension/"><img height="35px" src="https://raw.githubusercontent.com/Blooket-Cheats/.github/main/profile/extension.svg"></a>
+		      <a href="https://github.com/The-Blooket-Hacks/Blooket-Hacks/"><img height="35px" src="https://raw.githubusercontent.com/Blooket-Cheats/.github/main/profile/viewCheats.svg"></a>
+    <a href="https://github.com/The-Blooket-Hacks/Hacklet/"><img height="35px" src="https://raw.githubusercontent.com/Blooket-Cheats/.github/main/profile/extension.svg"></a>
 </div>
   </p>
 </div>
@@ -29,9 +29,9 @@
 <!-- CONTACT -->
 ## ‎‎ <img width="18" src="https://cdn.discordapp.com/emojis/1035536629407957042"> ‎ ‎ Contact
 
-• ‎ <img width="18" src="https://i.ibb.co/XkWwv7D/A63558-E9-8-A93-42-F8-BF87-BA05-D2-EBD817.png"> ‎ cph101 • cph101\#<span>&#x30;&#x30;&#x30;</span>1 • cph101@icloud.com</span>
-
 • ‎ <img width="18" src="https://i.ibb.co/nCb2NjY/3-CE6-DBB3-9-E4-A-4-DE4-8090-F8-ACCD394-AE1.png"> ‎ Crazyh • Huckle\#4707 • crazyh.dev@gmail.com
+
+• ‎ <img width="18" src="https://i.ibb.co/XkWwv7D/A63558-E9-8-A93-42-F8-BF87-BA05-D2-EBD817.png"> ‎ cph101 • cph101\#<span>&#x30;&#x30;&#x30;</span>1 • cph101@icloud.com</span>
 
 <!-- ACKNOWLEDGMENTS -->
 ## ‎‎ <img width="18" src="https://cdn.discordapp.com/emojis/1012520645915062292"> ‎ ‎ Acknowledgments
