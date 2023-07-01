@@ -19,8 +19,8 @@
 	  <br>
 	  <div align="center">
 		  <p>
-		      <a href="https://github.com/The-Blooket-Hacks/Blooket-Hacks/"><img height="35px" src="https://raw.githubusercontent.com/Blooket-Cheats/.github/main/profile/viewCheats.svg"></a>
-    <a href="https://github.com/The-Blooket-Hacks/Hacklet/"><img height="35px" src="https://raw.githubusercontent.com/Blooket-Cheats/.github/main/profile/extension.svg"></a>
+		      <a href="https://github.com/The-Blooket-Hacks/Blooket-Hacks/"><img height="35px" src="https://github.com/The-Blooket-Hacks/.github/blob/main/profile/viewCheats.svg?raw=true"></a>
+    <a href="https://github.com/The-Blooket-Hacks/Hacklet/"><img height="35px" src="https://github.com/The-Blooket-Hacks/.github/blob/main/profile/extension.svg?raw=true"></a>
 </div>
   </p>
 </div>
