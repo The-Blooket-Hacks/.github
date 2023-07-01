@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/The-Blooket-Hacks">
-	 <img src="https://github.com/Blooket-Cheats/Blooket-Hacks/blob/main/images/animated_icon.gif?raw=true" alt="Logo" width="200" height="200" />
+	 <img src="https://github.com/The-Blooket-Hacks/.github/blob/main/profile/animated_icon.gif?raw=true" alt="Logo" width="200" height="200" />
   </a>
 
 <h3 align="center">Blooket Hacks</h3>
