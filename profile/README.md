@@ -29,7 +29,7 @@
 <!-- CONTACT -->
 ## ‎‎ <img width="18" src="https://cdn.discordapp.com/emojis/1035536629407957042"> ‎ ‎ Contact
 
-• ‎ <img width="18" src="https://i.ibb.co/nCb2NjY/3-CE6-DBB3-9-E4-A-4-DE4-8090-F8-ACCD394-AE1.png"> ‎ Blooket Pro Hacker • timmyboyiscool • blooket_pro_hacker@gmail.com
+• ‎ <img width="18" height="18" src="https://github.com/The-Blooket-Hacks/.github/blob/main/profile/153327801663345229.gif-modified.png"> ‎ Blooket Pro Hacker • timmyboyiscool • blooket_pro_hacker@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## ‎‎ <img width="18" src="https://cdn.discordapp.com/emojis/1012520645915062292"> ‎ ‎ Acknowledgments
