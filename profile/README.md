@@ -29,7 +29,7 @@
 <!-- CONTACT -->
 ## ‎‎ <img width="18" src="https://github.com/The-Blooket-Hacks/.github/blob/main/profile/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f31303335353336363239343037393537303432.png?raw=true"> ‎ ‎ Contact
 
-• ‎ <img width="18" height="18" src="https://github.com/The-Blooket-Hacks/.github/blob/main/profile/153327801663345229.gif-modified.png"> ‎ Blooket Pro Hacker • timmyboyiscool • blooket_pro_hacker@gmail.com
+• ‎ <img width="18" height="18" src="https://github.com/The-Blooket-Hacks/.github/blob/main/profile/153327801663345229.gif-modified.png"> ‎ Blooket Pro Hacker • timmyboyiscool • blooket.pro.hacker@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## ‎‎ <img width="18" src="https://github.com/The-Blooket-Hacks/.github/blob/main/profile/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f31303132353230363435393135303632323932.png?raw=true"> ‎ ‎ Acknowledgments
